@@ -30,11 +30,11 @@ Locust plague prediction based on time series and historical data
 
 # What we want for deliverables:
 
-### Visualization of past locust plagues or predicted locust plagues
+-Visualization of past locust plagues or predicted locust plagues
 
-### Algorithm or model that predicts locust plagues
+-Algorithm or model that predicts locust plagues
 
-### Paper about how to predict locust plagues
+-Paper about how to predict locust plagues
 
-### Blog post explaining methods
+-Blog post explaining methods
 
