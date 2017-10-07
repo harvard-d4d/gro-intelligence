@@ -24,17 +24,19 @@ Locust plague prediction based on time series and historical data
 
 [Desert Locust Location Report](http://www.fao.org/ag/locusts/en/info/info/index.html)
 
+[Features to Start out With](http://www.fao.org/ag/locusts/common/ecg/190/en/1996_EPPO_Cressman_Forecasting.pdf)
+
 # Gro Website:
 
 [Gro!](https://www.gro-intelligence.com/)
 
 # What we want for deliverables:
 
--Visualization of past locust plagues or predicted locust plagues
+- Visualization of past locust plagues or predicted locust plagues
 
--Algorithm or model that predicts locust plagues
+- Algorithm or model that predicts locust plagues
 
--Paper about how to predict locust plagues
+- Paper about how to predict locust plagues
 
--Blog post explaining methods
+- Blog post explaining methods
 
