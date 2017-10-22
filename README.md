@@ -6,17 +6,15 @@ Locust plague prediction based on time series and historical data
 
 ## Basics, essentials, things we will almost definitely use:
 
-[ML Course (Andrew Ng)](https://www.coursera.org/learn/machine-learning)
-
 [Backpropogation](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+
+[Data Science Course](https://github.com/amarallab/Introduction-to-Python-Programming-and-Data-Science)
 
 ## Extra Papers that may be cool to think about:
 
 [Long Short-term Memory (LSTM) Networks](colah.github.io/posts/2015-08-Understanding-LSTMs/)
 
 [Convolutional Neural Net Overview](http://cs231n.github.io/convolutional-networks/)
-
-[Google DeepMind Neural Turing Machines](https://arxiv.org/pdf/1410.5401.pdf)
 
 # Locust Detection:
 
@@ -39,4 +37,3 @@ Locust plague prediction based on time series and historical data
 - Paper about how to predict locust plagues
 
 - Blog post explaining methods
-
