@@ -1,0 +1,20 @@
+{
+	"isolated": "0-1",
+	"few": "0-1",
+	"scattered": "1-20",
+	"low numbers": "1-20"
+	"group": "20+",
+	"very small swarm": "< 1 square km"
+	"very small band": "1 - 25 square meters",
+	"small swarm": "1 - 10 square km"
+	"small band": "25 - 2500 square meters",
+	"medium swarm": "10 - 100 square km"
+	"medium band": "2500 square meters - 10 ha",
+	"large swarm": "100 - 500 square km"
+	"large band": "10 - 50 ha",
+	"very large swarm": "500+ square km"
+	"very large band": "50+ ha",
+	"light rainfall": "1 - 20 mm"
+	"moderate rainfall": "21 - 50 mm",
+	"heavy rainfall": "50+ mm"
+}
