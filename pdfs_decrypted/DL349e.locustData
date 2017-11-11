@@ -1,147 +1,277 @@
 (dp0
 S'Libyan Arab Jamahiriya'
 p1
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   Chad '
-p2
-S'\x80\xa2 SITUATION During September, isolated solitarious mature   reported during October.   '
+(dp2
+S'situation'
 p3
-tp4
-sS'Mauritania'
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   Chad '
+p4
+sS'forecast'
 p5
-(S'\x80\xa2 SITUATION Small-scale breeding occurred during October   in parts of Tagant, northern Brakna, Trarza and  southwest Adrar. In these areas, isolated and  scattered solitarious hoppers and immature and  mature solitarious adults were present. Egg laying and  hatching were reported up until the end of the month  in southwest Adrar, Tagant and northern Brakna,  causing locust numbers to increase slightly, up to 400  hoppers/site. '
+S'\x80\xa2 SITUATION During September, isolated solitarious mature   reported during October.   '
 p6
-S'\x80\xa2 FORECAST If rains fall in the northwest (Inchiri and southwest   Adrar) and the north (southern Tiris-Zemmour),  small-scale breeding could cause locust numbers to  increase slightly.  Mali '
+sS'forecasted_rating'
 p7
-tp8
-sS'Saudi Arabia'
+I1
+sS'rating'
+p8
+I1
+ssS'Mauritania'
 p9
-(S'\x80\xa2 SITUATION During October, isolated immature and mature   solitarious adults were present on the Red Sea coast  near Jizan (1656N/4233E), Qun\xef\xac\x81 dah (1909N/4107E),  Rabigh (2247N/3901E) and Yenbo (2405N/3802E).  Ground teams treated 15 ha near Yenbo and an  infestation of adults at densities of 200-500 adults/ha  near Medina. No locusts were reported in the interior.  '
-p10
-S'\x80\xa2 FORECAST Small-scale breeding is likely to occur along parts   of the Red Sea coast, especially in areas of recent  rainfall or where rains fall during the forecast period,  causing locust numbers to increase slightly.  Yemen '
+(dp10
+g3
+S'\x80\xa2 SITUATION Small-scale breeding occurred during October   in parts of Tagant, northern Brakna, Trarza and  southwest Adrar. In these areas, isolated and  scattered solitarious hoppers and immature and  mature solitarious adults were present. Egg laying and  hatching were reported up until the end of the month  in southwest Adrar, Tagant and northern Brakna,  causing locust numbers to increase slightly, up to 400  hoppers/site. '
 p11
-tp12
-sS'Ethiopia'
+sg5
+S'\x80\xa2 FORECAST If rains fall in the northwest (Inchiri and southwest   Adrar) and the north (southern Tiris-Zemmour),  small-scale breeding could cause locust numbers to  increase slightly.  Mali '
+p12
+sg7
+I1
+sg8
+I1
+ssS'Saudi Arabia'
 p13
-(S'\x80\xa2 SITUATION During the \xef\xac\x81 rst decade of October, isolated   immature solitarious adults persisted between Dire  Dawa (0935N/4150E) and the borders of Djibouti and  northern Somalia where about three swarms were  page 4 of   9  near Hargeisa was seen moving southeast towards  adjacent areas in eastern Ethiopia. Immature and  mature solitarious adults were present at a few places  on the coastal plains west of Berbera (1028N/4502E).  In early October, groups of mature adults were  seen in the northeast near Gardo (0930N/4905E).  During the second week, there were several reports of  locusts further south between Garowe (0824N/4828E)  and Galkayo (0642N/4725E). Some of these were  seen crossing into eastern Ethiopia. Shortly after  mid-month, there were reports of several swarms  southeast of Burao (0931N/4533E) along the border  with Ethiopia. The situation was reported to be calm at  the end of the month.  '
-p14
-S'\x80\xa2 FORECAST Unless further rainfall occurs, only scattered adults   are likely to remain in some areas on the plateau  between Boroma and Gardo, and the northwest  coastal plains  Kenya '
+(dp14
+g3
+S'\x80\xa2 SITUATION During October, isolated immature and mature   solitarious adults were present on the Red Sea coast  near Jizan (1656N/4233E), Qun\xef\xac\x81 dah (1909N/4107E),  Rabigh (2247N/3901E) and Yenbo (2405N/3802E).  Ground teams treated 15 ha near Yenbo and an  infestation of adults at densities of 200-500 adults/ha  near Medina. No locusts were reported in the interior.  '
 p15
-tp16
-sS'Algeria'
+sg5
+S'\x80\xa2 FORECAST Small-scale breeding is likely to occur along parts   of the Red Sea coast, especially in areas of recent  rainfall or where rains fall during the forecast period,  causing locust numbers to increase slightly.  Yemen '
+p16
+sg7
+I1
+sg8
+I1
+ssS'Ethiopia'
 p17
-(S'\x80\xa2 SITUATION During October, isolated solitarious adults were   present in the extreme south along the Malian border  near Bir Bou Mokhtar (2120N/0056E).  '
-p18
-S'\x80\xa2 FORECAST Low numbers of locusts may persist in the south   near Tamanrasset and Bir Bou Mokhtar but breeding  is unlikely unless additional rainfall occurs.  Tunisia '
+(dp18
+g3
+S'\x80\xa2 SITUATION During the \xef\xac\x81 rst decade of October, isolated   immature solitarious adults persisted between Dire  Dawa (0935N/4150E) and the borders of Djibouti and  northern Somalia where about three swarms were  page 4 of   9  near Hargeisa was seen moving southeast towards  adjacent areas in eastern Ethiopia. Immature and  mature solitarious adults were present at a few places  on the coastal plains west of Berbera (1028N/4502E).  In early October, groups of mature adults were  seen in the northeast near Gardo (0930N/4905E).  During the second week, there were several reports of  locusts further south between Garowe (0824N/4828E)  and Galkayo (0642N/4725E). Some of these were  seen crossing into eastern Ethiopia. Shortly after  mid-month, there were reports of several swarms  southeast of Burao (0931N/4533E) along the border  with Ethiopia. The situation was reported to be calm at  the end of the month.  '
 p19
-tp20
-sS'Chad'
+sg5
+S'\x80\xa2 FORECAST Unless further rainfall occurs, only scattered adults   are likely to remain in some areas on the plateau  between Boroma and Gardo, and the northwest  coastal plains  Kenya '
+p20
+sg7
+I1
+sg8
+I1
+ssS'Algeria'
 p21
-(g3
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  adults were present in Kanem near Salal  (1448N/1712E), in Biltine north of Iriba (1507N/2215E)  and in Ennedi between Kalait (1550N/2054E) and  Fada (1714N/2132E). Small-scale breeding occurred  near Kalait where low numbers of solitarious hoppers  of all instars were present. Egg laying was reported  near Kalait and Fada after mid-month.  During the \xef\xac\x81 rst half of October, scattered   immature and mature solitarious adults, at densities  up to 3,700 adults/ha, persisted in Kanem near  Salal (1448N/1712E) and in Ennedi near Kalait  (1550N/2054E) and Fada (1714N/2132E). Some  adults were seen copulating near Fada early in the  month.  '
-p22
-tp23
-sS'Eritrea'
+(dp22
+g3
+S'\x80\xa2 SITUATION During October, isolated solitarious adults were   present in the extreme south along the Malian border  near Bir Bou Mokhtar (2120N/0056E).  '
+p23
+sg5
+S'\x80\xa2 FORECAST Low numbers of locusts may persist in the south   near Tamanrasset and Bir Bou Mokhtar but breeding  is unlikely unless additional rainfall occurs.  Tunisia '
 p24
-(S'\x80\xa2 SITUATION During October, locust numbers declined on the   Somalia '
+sg7
+I1
+sg8
+I1
+ssS'Chad'
 p25
-S'\x80\xa2 SITUATION During the last week of September, a swarm   Red Sea coastal plains because of unfavourable  breeding conditions. Only low numbers of solitarious  mature adults persisted in a few places near  Shelshela (1553N/3906E), Naro (1626N/3840) and  Karora (1745N/3820E). Small-scale breeding occurred  in crops near Naro where scattered second and third  instar solitarious hoppers were seen at mid-month,  and adults were copulating in the north near Mehimet  (1723N/3833E) during the last week. No locusts were  seen between Massawa (1537N/3928E) and Tio  (1441N/4057E) during surveys on 9-13 October.  '
-p26
-tp27
-sS'Tunisia'
+(dp26
+g3
+g6
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  adults were present in Kanem near Salal  (1448N/1712E), in Biltine north of Iriba (1507N/2215E)  and in Ennedi between Kalait (1550N/2054E) and  Fada (1714N/2132E). Small-scale breeding occurred  near Kalait where low numbers of solitarious hoppers  of all instars were present. Egg laying was reported  near Kalait and Fada after mid-month.  During the \xef\xac\x81 rst half of October, scattered   immature and mature solitarious adults, at densities  up to 3,700 adults/ha, persisted in Kanem near  Salal (1448N/1712E) and in Ennedi near Kalait  (1550N/2054E) and Fada (1714N/2132E). Some  adults were seen copulating near Fada early in the  month.  '
+p27
+sg7
+I1
+sg8
+I1
+ssS'Eritrea'
 p28
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
-p29
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  CENTRAL REGION Sudan '
+(dp29
+g3
+S'\x80\xa2 SITUATION During October, locust numbers declined on the   Somalia '
 p30
-tp31
-sS'Oman'
+sg5
+S'\x80\xa2 SITUATION During the last week of September, a swarm   Red Sea coastal plains because of unfavourable  breeding conditions. Only low numbers of solitarious  mature adults persisted in a few places near  Shelshela (1553N/3906E), Naro (1626N/3840) and  Karora (1745N/3820E). Small-scale breeding occurred  in crops near Naro where scattered second and third  instar solitarious hoppers were seen at mid-month,  and adults were copulating in the north near Mehimet  (1723N/3833E) during the last week. No locusts were  seen between Massawa (1537N/3928E) and Tio  (1441N/4057E) during surveys on 9-13 October.  '
+p31
+sg7
+I1
+sg8
+I1
+ssS'Tunisia'
 p32
-(S'\x80\xa2 SITUATION No locusts were seen during surveys carried out   on the northern Batinah coast and on the Musandam  Peninsula during October.  '
-p33
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon,   Palestine, Qatar, Syria, Tanzania, Turkey, UAE and  Uganda  '
+(dp33
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
 p34
-tp35
-sS'India'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  CENTRAL REGION Sudan '
+p35
+sg7
+I1
+sg8
+I1
+ssS'Oman'
 p36
-(S'\x80\xa2 SITUATION During the last half of September, ground teams  treated 21 ha of \xef\xac\x81 rst to third instar hoppers west of  Jodhpur near Phalodi (2706N/7222E).  No locusts were seen during surveys carried out in   Gujarat during the \xef\xac\x81 rst half of October.  '
-p37
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Afghanistan '
+(dp37
+g3
+S'\x80\xa2 SITUATION No locusts were seen during surveys carried out   on the northern Batinah coast and on the Musandam  Peninsula during October.  '
 p38
-tp39
-sS'Djibouti'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Bahrain, Iraq, Israel, Jordan, Kuwait, Lebanon,   Palestine, Qatar, Syria, Tanzania, Turkey, UAE and  Uganda  '
+p39
+sg7
+I1
+sg8
+I1
+ssS'India'
 p40
-(S'\x80\xa2 SITUATION No reports were received during October. '
-p41
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Eritrea '
+(dp41
+g3
+S'\x80\xa2 SITUATION During the last half of September, ground teams  treated 21 ha of \xef\xac\x81 rst to third instar hoppers west of  Jodhpur near Phalodi (2706N/7222E).  No locusts were seen during surveys carried out in   Gujarat during the \xef\xac\x81 rst half of October.  '
 p42
-tp43
-sS'Afghanistan'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Afghanistan '
+p43
+sg7
+I1
+sg8
+I1
+ssS'Djibouti'
 p44
-(S'\x80\xa2 SITUATION No reports received. '
-p45
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Announcements  Locust reporting. During recession periods,   countries should report at least once/month and send  RAMSES data with a brief interpretation. During  caution (yellow) periods, locust outbreaks, upsurges  and plagues, RAMSES output \xef\xac\x81 les with a brief  interpretation should be sent twice/week within 48  hours of the last survey. Affected countries are also  encouraged to prepare decadal bulletins summarizing  the situation. All information should be sent by e-mail  to the FAO/ECLO Desert Locust Information Service  (eclo@fao.org). Information received by the end of  the month will be included in the FAO Desert Locust  Bulletin for the current month; otherwise, it will not  appear until the following month. Reports should be  sent even if no locusts were found or if no surveys  were conducted.  eLocust2. FAO has developed a new version   of eLocust in collaboration with affected countries   page 6 of   9  and the French Space Agency (CNES/Novacom)  that allows \xef\xac\x81 eld of\xef\xac\x81 cers to enter survey and control  data directly in the \xef\xac\x81 eld and transmit it in real time  via satellite to their national locust centre. Data  can also be downloaded to a PC and visualized on  GoogleEarth. The software is in both English and  French. FAO DLIS has distributed units to nearly all of  the frontline countries. Photos and more information  are available at: www.fao.org/ag/locusts/en/activ/DLIS/ index.html  Desert Locust warning levels. A colour-coded   scheme indicates the seriousness of the current  Desert Locust situation: green for calm, yellow for  caution, orange for threat and red for danger. The  scheme is applied to the Locust Watch web page and  to the monthly bulletin'
+(dp45
+g3
+S'\x80\xa2 SITUATION No reports were received during October. '
 p46
-tp47
-sS'Sudan'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Eritrea '
+p47
+sg7
+I1
+sg8
+I1
+ssS'Afghanistan'
 p48
-(S'\x80\xa2 SITUATION During the \xef\xac\x81 rst week of October, a few small   swarms laid eggs and hatching occurred in  the northern Baiyuda Desert near Merowe  (1830N/3149E). Throughout the month, hopper  bands formed and groups of immature and mature  adults were present in the Baiyuda between Merowe  and Shendi (1641N/3322E), along the Atbara  River, northwest of Kassala (1527N/3623E), and on  the western side of the Red Sea Hills near Haiya  (1820N/3621E) and in Wadi Oko near Tomala  (2002N/3551E). The bands were mainly small and  consisted of all instars at densities up to 50 hoppers/ m2. By the end of the month, most of the bands were  \xef\xac\x82 edging. From the 18th onwards, small immature and  mature swarms were seen in the Baiyuda and near  Kassala and Haiya. Some of these swarms near  Kassala laid eggs.   In the winter breeding areas, groups of immature  and mature solitarious and gregarious adults were  present on the Red Sea coast in the Tokar Delta at  densities up to 2,000 adults/ha, and in the northern  subcoastal areas along Wadi Diib at densities up to  650 adults/ha. In the Tokar Delta, egg laying occurred  throughout the month. Solitarious, transiens and  gregarious hoppers formed small groups at densities   No. 349  D E S E R T  L O C U S T  B U L L E T I N page 3 of   9  \x0cNo. 349  D E S E R T  L O C U S T  B U L L E T I N  up to 12 hoppers/m2 and, by the last week of the  month, a few small late instar hopper bands had  formed.  Ground control teams treated 11,212 ha during   October of which 418 ha were in the Tokar Delta and  112 ha were with Metarhizium. Some aerial control  was carried out near Kassala.  '
-p49
-S'\x80\xa2 Forecast Small adult groups and swarms are likely to form in  the Baiyuda Desert, along the Atbara River and west  of the Red Sea Hills. These locusts are expected to  move to the Red Sea coastal plains where they will  rapidly mature and lay eggs, primarily in the Tokar  Delta and surrounding coastal plains but some could  also reach Wadi Diib in the north. Hatching and the  formation of groups and perhaps small bands are  expected to take place in Tokar and could occur near  Kassala where swarms were seen laying eggs in  October.  seen in late September. In the Ogaden, egg laying  occurred north of Warder (0658N/4520E) and small  medium-density second instar hopper bands were  reported on the 27th at two places. From about the  23rd onwards, there were several reports of mature  swarms arriving in the eastern Ogaden from adjacent  areas of northern Somalia. These swarms moved west  and south and, by the end of the month, a few swarms  had reached the Fik area (0808N/4218E) in the west  and south of Kebri Dehar (0644N/4416E) near Kelafo  (0524N/4410E) and the Shabele River. Survey efforts  were hampered by insecurity in the region.  In the Afar region, ground control teams treated   35 ha of hoppers that gregarized at Buldugum  (1155N/4129E) in early October.  '
+(dp49
+g3
+S'\x80\xa2 SITUATION No reports received. '
 p50
-tp51
-sS'Senegal'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Announcements  Locust reporting. During recession periods,   countries should report at least once/month and send  RAMSES data with a brief interpretation. During  caution (yellow) periods, locust outbreaks, upsurges  and plagues, RAMSES output \xef\xac\x81 les with a brief  interpretation should be sent twice/week within 48  hours of the last survey. Affected countries are also  encouraged to prepare decadal bulletins summarizing  the situation. All information should be sent by e-mail  to the FAO/ECLO Desert Locust Information Service  (eclo@fao.org). Information received by the end of  the month will be included in the FAO Desert Locust  Bulletin for the current month; otherwise, it will not  appear until the following month. Reports should be  sent even if no locusts were found or if no surveys  were conducted.  eLocust2. FAO has developed a new version   of eLocust in collaboration with affected countries   page 6 of   9  and the French Space Agency (CNES/Novacom)  that allows \xef\xac\x81 eld of\xef\xac\x81 cers to enter survey and control  data directly in the \xef\xac\x81 eld and transmit it in real time  via satellite to their national locust centre. Data  can also be downloaded to a PC and visualized on  GoogleEarth. The software is in both English and  French. FAO DLIS has distributed units to nearly all of  the frontline countries. Photos and more information  are available at: www.fao.org/ag/locusts/en/activ/DLIS/ index.html  Desert Locust warning levels. A colour-coded   scheme indicates the seriousness of the current  Desert Locust situation: green for calm, yellow for  caution, orange for threat and red for danger. The  scheme is applied to the Locust Watch web page and  to the monthly bulletin'
+p51
+sg7
+I1
+sg8
+I1
+ssS'Sudan'
 p52
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
-p53
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Benin, Burkina Faso, Cameroon, Cape Verde,   C\xc3\xb4te d'
+(dp53
+g3
+S'\x80\xa2 SITUATION During the \xef\xac\x81 rst week of October, a few small   swarms laid eggs and hatching occurred in  the northern Baiyuda Desert near Merowe  (1830N/3149E). Throughout the month, hopper  bands formed and groups of immature and mature  adults were present in the Baiyuda between Merowe  and Shendi (1641N/3322E), along the Atbara  River, northwest of Kassala (1527N/3623E), and on  the western side of the Red Sea Hills near Haiya  (1820N/3621E) and in Wadi Oko near Tomala  (2002N/3551E). The bands were mainly small and  consisted of all instars at densities up to 50 hoppers/ m2. By the end of the month, most of the bands were  \xef\xac\x82 edging. From the 18th onwards, small immature and  mature swarms were seen in the Baiyuda and near  Kassala and Haiya. Some of these swarms near  Kassala laid eggs.   In the winter breeding areas, groups of immature  and mature solitarious and gregarious adults were  present on the Red Sea coast in the Tokar Delta at  densities up to 2,000 adults/ha, and in the northern  subcoastal areas along Wadi Diib at densities up to  650 adults/ha. In the Tokar Delta, egg laying occurred  throughout the month. Solitarious, transiens and  gregarious hoppers formed small groups at densities   No. 349  D E S E R T  L O C U S T  B U L L E T I N page 3 of   9  \x0cNo. 349  D E S E R T  L O C U S T  B U L L E T I N  up to 12 hoppers/m2 and, by the last week of the  month, a few small late instar hopper bands had  formed.  Ground control teams treated 11,212 ha during   October of which 418 ha were in the Tokar Delta and  112 ha were with Metarhizium. Some aerial control  was carried out near Kassala.  '
 p54
-tp55
-sS'Pakistan'
+sg5
+S'\x80\xa2 Forecast Small adult groups and swarms are likely to form in  the Baiyuda Desert, along the Atbara River and west  of the Red Sea Hills. These locusts are expected to  move to the Red Sea coastal plains where they will  rapidly mature and lay eggs, primarily in the Tokar  Delta and surrounding coastal plains but some could  also reach Wadi Diib in the north. Hatching and the  formation of groups and perhaps small bands are  expected to take place in Tokar and could occur near  Kassala where swarms were seen laying eggs in  October.  seen in late September. In the Ogaden, egg laying  occurred north of Warder (0658N/4520E) and small  medium-density second instar hopper bands were  reported on the 27th at two places. From about the  23rd onwards, there were several reports of mature  swarms arriving in the eastern Ogaden from adjacent  areas of northern Somalia. These swarms moved west  and south and, by the end of the month, a few swarms  had reached the Fik area (0808N/4218E) in the west  and south of Kebri Dehar (0644N/4416E) near Kelafo  (0524N/4410E) and the Shabele River. Survey efforts  were hampered by insecurity in the region.  In the Afar region, ground control teams treated   35 ha of hoppers that gregarized at Buldugum  (1155N/4129E) in early October.  '
+p55
+sg7
+I1
+sg8
+I1
+ssS'Senegal'
 p56
-(S'\x80\xa2 SITUATION During October, scattered immature and mature   adults at densities up to 350 adults/ha persisted  near the Indian border southeast of Rahimyar Khan  (2822N/7020E). By the end of the month, locust  numbers were declining.  '
-p57
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  India '
+(dp57
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
 p58
-tp59
-sS'Somalia'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Benin, Burkina Faso, Cameroon, Cape Verde,   C\xc3\xb4te d'
+p59
+sg7
+I1
+sg8
+I1
+ssS'Pakistan'
 p60
-(g26
-S'\x80\xa2 FORECAST Small-scale hatching will take place and locust   numbers will increase slightly on the Red Sea coast  between Massawa and Karora if rainfall occurs during  the forecast period. There is a slight risk of adult  groups arriving in the north from adjacent coastal  areas in Sudan.  Ethiopia '
-p61
-tp62
-sS'Mali'
+(dp61
+g3
+S'\x80\xa2 SITUATION During October, scattered immature and mature   adults at densities up to 350 adults/ha persisted  near the Indian border southeast of Rahimyar Khan  (2822N/7020E). By the end of the month, locust  numbers were declining.  '
+p62
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  India '
 p63
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
+sg7
+I1
+sg8
+I1
+ssS'Somalia'
 p64
-S'\x80\xa2 FORECAST Low numbers of locusts may be present and could  persist in those areas that remain green in the Adrar  des Iforas.  Niger '
-p65
-tp66
-sS'Iran'
+(dp65
+g3
+g31
+sg5
+S'\x80\xa2 FORECAST Small-scale hatching will take place and locust   numbers will increase slightly on the Red Sea coast  between Massawa and Karora if rainfall occurs during  the forecast period. There is a slight risk of adult  groups arriving in the north from adjacent coastal  areas in Sudan.  Ethiopia '
+p66
+sg7
+I1
+sg8
+I1
+ssS'Mali'
 p67
-(S'\x80\xa2 SITUATION A late report indicated that scattered mature   solitarious adults, at densities up to 500 adults/ha,  were present during the last week of September  along the southeastern coast between Chabahar  (2517N/6036E) and the Pakistani border. No  locusts were seen in the interior between Kahnuj  (2757N/5742E) and Bampur (2711N/6028E).  During October, isolated mature solitarious adults  persisted at a few places near Chabahar. No locusts  were seen on the Persian Gulf coast west of Bander-e  Lengheh (2634N/5452E).  '
-p68
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  No. 349  D E S E R T  L O C U S T  B U L L E T I N page 5 of   9  \x0cNo. 349  D E S E R T  L O C U S T  B U L L E T I N  Pakistan '
+(dp68
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during October.  '
 p69
-tp70
-sS'Niger'
+sg5
+S'\x80\xa2 FORECAST Low numbers of locusts may be present and could  persist in those areas that remain green in the Adrar  des Iforas.  Niger '
+p70
+sg7
+I1
+sg8
+I1
+ssS'Iran'
 p71
-(S'\x80\xa2 SITUATION Although surveys could not be carried out during   October, scattered third to \xef\xac\x81 fth instar solitarious   \x0choppers and immature adults were reported from one  place northwest of Agadez (1700N/0756E) on the 26th  and groups of immature solitarious adults were seen  15 km east of Arlit (1843N/0721E) on the 30th.   '
-p72
-S'\x80\xa2 FORECAST Scattered adults are likely to be present and  breeding in parts of Tamesna, in the western Air  Mountains and near Tanout. Consequently, locusts  could increase, concentrate and form small groups.  Morocco  '
+(dp72
+g3
+S'\x80\xa2 SITUATION A late report indicated that scattered mature   solitarious adults, at densities up to 500 adults/ha,  were present during the last week of September  along the southeastern coast between Chabahar  (2517N/6036E) and the Pakistani border. No  locusts were seen in the interior between Kahnuj  (2757N/5742E) and Bampur (2711N/6028E).  During October, isolated mature solitarious adults  persisted at a few places near Chabahar. No locusts  were seen on the Persian Gulf coast west of Bander-e  Lengheh (2634N/5452E).  '
 p73
-tp74
-sS'Yemen'
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  No. 349  D E S E R T  L O C U S T  B U L L E T I N page 5 of   9  \x0cNo. 349  D E S E R T  L O C U S T  B U L L E T I N  Pakistan '
+p74
+sg7
+I1
+sg8
+I1
+ssS'Niger'
 p75
-(S'\x80\xa2 SITUATION During October, small locust infestations were   present along the coastal plains of the Red Sea and  Gulf of Aden. Small-scale breeding continued in  the north near Suq Abs (1600N/4312E) and on the  central plains between Hodeidah and Bayt Al Faqih  (1430N/4317E). Hoppers of all instars formed a few  small bands in the north and small groups at densities  up to 20 hoppers/m2 on the central coast. Ground  control treated 384 ha on 1-10 October. Solitarious  \xef\xac\x82 edglings, immature and mature adults at densities  less than 1,000 adults/ha were also present in both  areas. Some of the adults were copulating early in the  month.   Immature and mature solitarious adults, at densities   less than 500 adults/ha, were scattered along the  Aden coast from west of Aden to east of Zinjibar  (1306N/4523E). Most of the locusts were concentrated  in the Am Rija (1302N/4434E) area, and some were  transiens in appearance. A few adults were seen  copulating early in the month, hatching occurred   during the second half of the month and scattered \xef\xac\x81 rst  and second instar solitarious hoppers were present at  densities of 2 hopper/m2 during the last week.  In the summer breeding areas of the interior,   transiens and gregarious mature adults were present  near Minwakh (1650N/4812E) during the \xef\xac\x81 rst week  of October. Thereafter, no further surveys were  conducted.  '
-p76
-S'\x80\xa2 FORECAST Small groups, hopper bands and perhaps a few  very small swarms could form in some areas along  the Red Sea coastal plains. If more rains fall, another  generation of breeding will occur that would cause  locust numbers to increase further. On the Gulf of  Aden coast, breeding could continue if more rains fall;  otherwise, only low numbers of locusts are likely to  persist.    Oman '
+(dp76
+g3
+S'\x80\xa2 SITUATION Although surveys could not be carried out during   October, scattered third to \xef\xac\x81 fth instar solitarious   \x0choppers and immature adults were reported from one  place northwest of Agadez (1700N/0756E) on the 26th  and groups of immature solitarious adults were seen  15 km east of Arlit (1843N/0721E) on the 30th.   '
 p77
-tp78
-sS'Egypt'
+sg5
+S'\x80\xa2 FORECAST Scattered adults are likely to be present and  breeding in parts of Tamesna, in the western Air  Mountains and near Tanout. Consequently, locusts  could increase, concentrate and form small groups.  Morocco  '
+p78
+sg7
+I1
+sg8
+I1
+ssS'Yemen'
 p79
-(S'\x80\xa2 SITUATION During October, scattered solitarious mature   adults were present on the Red Sea coastal plains  near Abu Ramad (2224N/3624E) and Wadi Diib. At  the end of the month, some adults were copulating.  Isolated immature solitarious adults were present  along the western side of Lake Nasser near Tushka  (2247N/3126E), and ground teams treated 8 ha of  solitarious and transiens mature adult groups.  '
-p80
-S'\x80\xa2 FORECAST Small-scale breeding is likely to occur in the   southeast on the coastal plains between Abu Ramad  and Halaib and in Wadi Diib. Isolated adults may  persist near Lake Nasser.  Saudi Arabia '
+(dp80
+g3
+S'\x80\xa2 SITUATION During October, small locust infestations were   present along the coastal plains of the Red Sea and  Gulf of Aden. Small-scale breeding continued in  the north near Suq Abs (1600N/4312E) and on the  central plains between Hodeidah and Bayt Al Faqih  (1430N/4317E). Hoppers of all instars formed a few  small bands in the north and small groups at densities  up to 20 hoppers/m2 on the central coast. Ground  control treated 384 ha on 1-10 October. Solitarious  \xef\xac\x82 edglings, immature and mature adults at densities  less than 1,000 adults/ha were also present in both  areas. Some of the adults were copulating early in the  month.   Immature and mature solitarious adults, at densities   less than 500 adults/ha, were scattered along the  Aden coast from west of Aden to east of Zinjibar  (1306N/4523E). Most of the locusts were concentrated  in the Am Rija (1302N/4434E) area, and some were  transiens in appearance. A few adults were seen  copulating early in the month, hatching occurred   during the second half of the month and scattered \xef\xac\x81 rst  and second instar solitarious hoppers were present at  densities of 2 hopper/m2 during the last week.  In the summer breeding areas of the interior,   transiens and gregarious mature adults were present  near Minwakh (1650N/4812E) during the \xef\xac\x81 rst week  of October. Thereafter, no further surveys were  conducted.  '
 p81
-tp82
-s.
+sg5
+S'\x80\xa2 FORECAST Small groups, hopper bands and perhaps a few  very small swarms could form in some areas along  the Red Sea coastal plains. If more rains fall, another  generation of breeding will occur that would cause  locust numbers to increase further. On the Gulf of  Aden coast, breeding could continue if more rains fall;  otherwise, only low numbers of locusts are likely to  persist.    Oman '
+p82
+sg7
+I1
+sg8
+I1
+ssS'Egypt'
+p83
+(dp84
+g3
+S'\x80\xa2 SITUATION During October, scattered solitarious mature   adults were present on the Red Sea coastal plains  near Abu Ramad (2224N/3624E) and Wadi Diib. At  the end of the month, some adults were copulating.  Isolated immature solitarious adults were present  along the western side of Lake Nasser near Tushka  (2247N/3126E), and ground teams treated 8 ha of  solitarious and transiens mature adult groups.  '
+p85
+sg5
+S'\x80\xa2 FORECAST Small-scale breeding is likely to occur in the   southeast on the coastal plains between Abu Ramad  and Halaib and in Wadi Diib. Isolated adults may  persist near Lake Nasser.  Saudi Arabia '
+p86
+sg7
+I1
+sg8
+I1
+ss.

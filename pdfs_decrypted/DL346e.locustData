@@ -1,148 +1,192 @@
 (dp0
 S'Libyan Arab Jamahiriya'
 p1
-(S'\x80\xa2 SITUATION During July, an isolated solitarious mature adult was   seen near Ghadames (3010N/0930E).   '
-p2
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Tunisia '
+(dp2
+S'situation'
 p3
-tp4
-sS'Mauritania'
+S'\x80\xa2 SITUATION During July, an isolated solitarious mature adult was   seen near Ghadames (3010N/0930E).   '
+p4
+sS'forecast'
 p5
-(S'\x80\xa2 SITUATION During July, isolated mature solitarious adults  were present at a few places in the south '
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Tunisia '
 p6
-S'\x80\x93 east  of Kaedi (1612N/1332W) in Gorgol and south  of Kiffa (1638N/1124W) in Assaba '
+ssS'Mauritania'
 p7
-tp8
-sS'Saudi Arabia'
+(dp8
+g3
+S'\x80\xa2 SITUATION During July, isolated mature solitarious adults  were present at a few places in the south '
 p9
-(S'\x80\xa2 SITUATION During the second week of July, no locusts   were seen on the Red Sea coast near Qun\xef\xac\x81 dah  (1909N/4107E) or in previously infested areas in the  interior near Buraydah (2621N/4358E) and Riyadh.  '
+sg5
+S'\x80\x93 east  of Kaedi (1612N/1332W) in Gorgol and south  of Kiffa (1638N/1124W) in Assaba '
 p10
-S'\x80\xa2 FORECAST Scattered adults may appear on the southern   coast of the Red Sea between Qun\xef\xac\x81 dah and Jizan  and breed on a small scale in areas of recent rainfall.  There is a very low possibility that a few swarms could  arrive in these areas from Yemen.  Yemen '
+ssS'Saudi Arabia'
 p11
-tp12
-sS'Ethiopia'
+(dp12
+g3
+S'\x80\xa2 SITUATION During the second week of July, no locusts   were seen on the Red Sea coast near Qun\xef\xac\x81 dah  (1909N/4107E) or in previously infested areas in the  interior near Buraydah (2621N/4358E) and Riyadh.  '
 p13
-(S'\x80\xa2 SITUATION No locusts were seen during surveys carried out   near Dire Dawa during the \xef\xac\x81 rst half of July.  '
+sg5
+S'\x80\xa2 FORECAST Scattered adults may appear on the southern   coast of the Red Sea between Qun\xef\xac\x81 dah and Jizan  and breed on a small scale in areas of recent rainfall.  There is a very low possibility that a few swarms could  arrive in these areas from Yemen.  Yemen '
 p14
-S'\x80\xa2 FORECAST Small residual adult populations may be present   between Dire Dawa and northern Somalia. If  conditions remain favourable, small-scale breeding  could occur in areas of recent rainfall.  Djibouti '
+ssS'Ethiopia'
 p15
-tp16
-sS'Algeria'
+(dp16
+g3
+S'\x80\xa2 SITUATION No locusts were seen during surveys carried out   near Dire Dawa during the \xef\xac\x81 rst half of July.  '
 p17
-(S'\x80\xa2 SITUATION During July, no locusts were seen during surveys  carried out in the central and southern Sahara near  Adrar (2753N/0017W), Tamanrasset (2250N/0528E),  Djanet (2434N/0930E) and along the Malian border  near Bir Bou Mokhtar (2120N/0056E).  '
+sg5
+S'\x80\xa2 FORECAST Small residual adult populations may be present   between Dire Dawa and northern Somalia. If  conditions remain favourable, small-scale breeding  could occur in areas of recent rainfall.  Djibouti '
 p18
-S'\x80\xa2 FORECAST Isolated adults could appear in the south near   Tamanrasset and Bir Bou Mokhtar and breed on a  small scale if rainfall occurs.  Mali '
+ssS'Algeria'
 p19
-tp20
-sS'Chad'
+(dp20
+g3
+S'\x80\xa2 SITUATION During July, no locusts were seen during surveys  carried out in the central and southern Sahara near  Adrar (2753N/0017W), Tamanrasset (2250N/0528E),  Djanet (2434N/0930E) and along the Malian border  near Bir Bou Mokhtar (2120N/0056E).  '
 p21
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during June. No reports were received in  July.  '
+sg5
+S'\x80\xa2 FORECAST Isolated adults could appear in the south near   Tamanrasset and Bir Bou Mokhtar and breed on a  small scale if rainfall occurs.  Mali '
 p22
-S'\x80\xa2 FORECAST Scattered adults are likely to be present in parts of  the centre and northeast where small-scale breeding  is expcted to occur in areas of recent rainfall, causing  locust numbers to increase slightly.  Senegal '
+ssS'Chad'
 p23
-tp24
-sS'Eritrea'
+(dp24
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during June. No reports were received in  July.  '
 p25
-(S'\x80\xa2 SITUATION During July, no locusts were seen during surveys in   the summer breeding areas in the western lowlands.  On the Red Sea coast, mature adults were present  and laying eggs during the \xef\xac\x81 rst and third weeks of  July at several places in the north between Mehimet  (1723N/3833E) and the Sudanese border. Mature  adults were also seen on the coast near Mersa  Gulbub (1633N/3908E) and in the foothills near Afabet  (1612N/3841E). No locusts were seen further south  along the coast to Tio (1441N/4057E).  '
+sg5
+S'\x80\xa2 FORECAST Scattered adults are likely to be present in parts of  the centre and northeast where small-scale breeding  is expcted to occur in areas of recent rainfall, causing  locust numbers to increase slightly.  Senegal '
 p26
-S'\x80\xa2 FORECAST Small-scale breeding is likely to occur in the  western lowlands and on the northern Red Sea  coast between Mehimet and Karora, causing locust  numbers to increase slightly.  Ethiopia '
+ssS'Eritrea'
 p27
-tp28
-sS'Tunisia'
+(dp28
+g3
+S'\x80\xa2 SITUATION During July, no locusts were seen during surveys in   the summer breeding areas in the western lowlands.  On the Red Sea coast, mature adults were present  and laying eggs during the \xef\xac\x81 rst and third weeks of  July at several places in the north between Mehimet  (1723N/3833E) and the Sudanese border. Mature  adults were also seen on the coast near Mersa  Gulbub (1633N/3908E) and in the foothills near Afabet  (1612N/3841E). No locusts were seen further south  along the coast to Tio (1441N/4057E).  '
 p29
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during July.  '
+sg5
+S'\x80\xa2 FORECAST Small-scale breeding is likely to occur in the  western lowlands and on the northern Red Sea  coast between Mehimet and Karora, causing locust  numbers to increase slightly.  Ethiopia '
 p30
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  CENTRAL REGION Sudan '
+ssS'Tunisia'
 p31
-tp32
-sS'Oman'
+(dp32
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during July.  '
 p33
-(S'\x80\xa2 SITUATION During July, groups of solitarious and transiens   hoppers of all instars mixed with solitarious, transiens  and gregarious immature and mature adults were  present along the Yemeni border near Maziuna  (1750N/5239E). Some adults were copulating. Ground  control teams treated 1,500 ha. No locusts were seen  during surveys in the northern regions of Sharqiya and  Batinah.  '
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  CENTRAL REGION Sudan '
 p34
-S'\x80\xa2 FORECAST Unless further rainfall occurs, breeding will end  and locust numbers will decline in the south along  the Yemeni border. Nevertheless, there is a slight risk  that some swarms could appear in this region from  adjacent areas in Yemen.  Bahrain, Iraq, Israel, Jordan, Kenya, Kuwait,   Lebanon, Palestine, Qatar, Syria, Tanzania, Turkey,  UAE and Uganda  '
+ssS'Oman'
 p35
-tp36
-sS'India'
+(dp36
+g3
+S'\x80\xa2 SITUATION During July, groups of solitarious and transiens   hoppers of all instars mixed with solitarious, transiens  and gregarious immature and mature adults were  present along the Yemeni border near Maziuna  (1750N/5239E). Some adults were copulating. Ground  control teams treated 1,500 ha. No locusts were seen  during surveys in the northern regions of Sharqiya and  Batinah.  '
 p37
-(S'\x80\xa2 SITUATION On 3 July, low numbers of immature and mature   adults were seen on the coast of Gujarat in the  Rann of Kutch near the Pakistani border. During the  remainder of the month, scattered solitarious adults  were present in several districts (Jaisalmer, Bikaner,  Barmer and Jodhpur) of Rajasthan where they  matured and laid eggs.  '
+sg5
+S'\x80\xa2 FORECAST Unless further rainfall occurs, breeding will end  and locust numbers will decline in the south along  the Yemeni border. Nevertheless, there is a slight risk  that some swarms could appear in this region from  adjacent areas in Yemen.  Bahrain, Iraq, Israel, Jordan, Kenya, Kuwait,   Lebanon, Palestine, Qatar, Syria, Tanzania, Turkey,  UAE and Uganda  '
 p38
-S'\x80\xa2 FORECAST Small-scale hatching will occur during August  and cause locust numbers to increase slightly in  Rajasthan. There is a very low possibility that a  few swarms could appear from Yemen via Oman in  August.  Afghanistan '
+ssS'India'
 p39
-tp40
-sS'Djibouti'
+(dp40
+g3
+S'\x80\xa2 SITUATION On 3 July, low numbers of immature and mature   adults were seen on the coast of Gujarat in the  Rann of Kutch near the Pakistani border. During the  remainder of the month, scattered solitarious adults  were present in several districts (Jaisalmer, Bikaner,  Barmer and Jodhpur) of Rajasthan where they  matured and laid eggs.  '
 p41
-(S'\x80\xa2 SITUATION No locusts were reported during July. '
+sg5
+S'\x80\xa2 FORECAST Small-scale hatching will occur during August  and cause locust numbers to increase slightly in  Rajasthan. There is a very low possibility that a  few swarms could appear from Yemen via Oman in  August.  Afghanistan '
 p42
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  page 4 of   8  Somalia '
+ssS'Djibouti'
 p43
-tp44
-sS'Afghanistan'
+(dp44
+g3
+S'\x80\xa2 SITUATION No locusts were reported during July. '
 p45
-(S'\x80\xa2 SITUATION No reports received. '
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  page 4 of   8  Somalia '
 p46
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Announcements  Locust reporting. During recession periods,   countries should report at least once/month and send  RAMSES data with a brief interpretation. During  caution (yellow) periods, locust outbreaks, upsurges  and plagues, RAMSES output \xef\xac\x81 les with a brief  interpretation should be sent twice/week and affected   No. 346  D E S E R T  L O C U S T  B U L L E T I N page 5 of   8  \x0cNo. 346  Food_Security/.Locusts/index.html. Comments  and questions can be addressed to Pietro Ceccato  (pceccato@iri.columbia.edu).   D E S E R T  L O C U S T  B U L L E T I N  countries are encouraged to prepare decadal bulletins  summarizing the situation. All information should  be sent by e-mail to the FAO/ECLO Desert Locust  Information Service (eclo@fao.org). Information  received by the end of the month will be included in  the FAO Desert Locust Bulletin for the current month;  otherwise, it will not appear until the following month.  Reports should be sent even if no locusts were found  or if no surveys were conducted.  eLocust2. FAO has developed a new version   of eLocust in collaboration with affected countries  and the French Space Agency (CNES/Novacom)  that allows \xef\xac\x81 eld of\xef\xac\x81 cers to enter survey and control  data directly in the \xef\xac\x81 eld and transmit it in real time  via satellite to their national locust centre. Data  can also be downloaded to a PC and visualized on  GoogleEarth. The software is in both English and  French. FAO DLIS has distributed units to nearly all of  the frontline countries. Photos and more information  are available at: www.fao.org/ag/locusts/en/activ/DLIS/ index.html  Desert Locust warning levels. A colour-coded   scheme indicates the seriousness of the current  Desert Locust situation: green for calm, yellow for  caution, orange for threat and red for danger. The  scheme is applied to the Locust Watch web page and  to the monthly bulletin'
+ssS'Afghanistan'
 p47
-tp48
-sS'Sudan'
+(dp48
+g3
+S'\x80\xa2 SITUATION No reports received. '
 p49
-(S'\x80\xa2 SITUATION On 19-25 July, limited surveys were carried out in   the River Nile State where scattered mature solitarious  adults were seen in the Baiyuda Desert between  Atbara (1742N/3400E) and Merowe (1830N/3149E),  in the Nile Valley south of Abu Hamed (1932N/3320E)  and at one place east of Atbara. No surveys were  carried out in the summer breeding areas in Darfur,  Kordofan, White Nile or Kassala.  No. 346  D E S E R T  L O C U S T  B U L L E T I N page 3 of   8  \x0cNo. 346  D E S E R T  L O C U S T  B U L L E T I N  '
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Announcements  Locust reporting. During recession periods,   countries should report at least once/month and send  RAMSES data with a brief interpretation. During  caution (yellow) periods, locust outbreaks, upsurges  and plagues, RAMSES output \xef\xac\x81 les with a brief  interpretation should be sent twice/week and affected   No. 346  D E S E R T  L O C U S T  B U L L E T I N page 5 of   8  \x0cNo. 346  Food_Security/.Locusts/index.html. Comments  and questions can be addressed to Pietro Ceccato  (pceccato@iri.columbia.edu).   D E S E R T  L O C U S T  B U L L E T I N  countries are encouraged to prepare decadal bulletins  summarizing the situation. All information should  be sent by e-mail to the FAO/ECLO Desert Locust  Information Service (eclo@fao.org). Information  received by the end of the month will be included in  the FAO Desert Locust Bulletin for the current month;  otherwise, it will not appear until the following month.  Reports should be sent even if no locusts were found  or if no surveys were conducted.  eLocust2. FAO has developed a new version   of eLocust in collaboration with affected countries  and the French Space Agency (CNES/Novacom)  that allows \xef\xac\x81 eld of\xef\xac\x81 cers to enter survey and control  data directly in the \xef\xac\x81 eld and transmit it in real time  via satellite to their national locust centre. Data  can also be downloaded to a PC and visualized on  GoogleEarth. The software is in both English and  French. FAO DLIS has distributed units to nearly all of  the frontline countries. Photos and more information  are available at: www.fao.org/ag/locusts/en/activ/DLIS/ index.html  Desert Locust warning levels. A colour-coded   scheme indicates the seriousness of the current  Desert Locust situation: green for calm, yellow for  caution, orange for threat and red for danger. The  scheme is applied to the Locust Watch web page and  to the monthly bulletin'
 p50
-S'\x80\xa2 Forecast Small populations will persist in the River Nile State   where laying and hatching will occur in August. Low  numbers of adults are almost certainly present in the  summer breeding areas in West and North Darfur,  North Kordofan, White Nile and Kassala States  where small-scale breeding is likely to be in progress.  Breeding will continue during the forecast period,  causing locust numbers to increase slightly. Surveys  should be conducted in these areas on a regular  basis.  Eritrea '
+ssS'Sudan'
 p51
-tp52
-sS'Senegal'
+(dp52
+g3
+S'\x80\xa2 SITUATION On 19-25 July, limited surveys were carried out in   the River Nile State where scattered mature solitarious  adults were seen in the Baiyuda Desert between  Atbara (1742N/3400E) and Merowe (1830N/3149E),  in the Nile Valley south of Abu Hamed (1932N/3320E)  and at one place east of Atbara. No surveys were  carried out in the summer breeding areas in Darfur,  Kordofan, White Nile or Kassala.  No. 346  D E S E R T  L O C U S T  B U L L E T I N page 3 of   8  \x0cNo. 346  D E S E R T  L O C U S T  B U L L E T I N  '
 p53
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during July.  '
+sg5
+S'\x80\xa2 Forecast Small populations will persist in the River Nile State   where laying and hatching will occur in August. Low  numbers of adults are almost certainly present in the  summer breeding areas in West and North Darfur,  North Kordofan, White Nile and Kassala States  where small-scale breeding is likely to be in progress.  Breeding will continue during the forecast period,  causing locust numbers to increase slightly. Surveys  should be conducted in these areas on a regular  basis.  Eritrea '
 p54
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Morocco  '
+ssS'Senegal'
 p55
-tp56
-sS'Pakistan'
+(dp56
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported during July.  '
 p57
-(S'\x80\xa2 SITUATION During the second half of June, scattered maturing   adults were west of Karachi near Uthal and in the  summer breeding areas in the Khairpur Desert south  of Rohri and in Cholistan Desert between Rahimyar  Khan (2822N/7020E) and the Indian border.  On the southern coast, late instar hoppers and a   During the \xef\xac\x81 rst half of July, scattered mature   few groups and bands, mixed with solitarious and  transiens mature adults, were present during the \xef\xac\x81 rst  decade of July near Seyhut (1512N/5115E) and in  the interior near Al Ghaydah (1612N/5210E). Some  mature adults were also seen on the coast near  Mukalla (1431N/4908E).  '
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Morocco  '
 p58
-S'\x80\xa2 FORECAST Moderate numbers of small swarms will form during   adults persisted in the above areas. No surveys were  conducted in the Tharparkar Desert.  '
+ssS'Pakistan'
 p59
-tp60
-sS'Somalia'
+(dp60
+g3
+S'\x80\xa2 SITUATION During the second half of June, scattered maturing   adults were west of Karachi near Uthal and in the  summer breeding areas in the Khairpur Desert south  of Rohri and in Cholistan Desert between Rahimyar  Khan (2822N/7020E) and the Indian border.  On the southern coast, late instar hoppers and a   During the \xef\xac\x81 rst half of July, scattered mature   few groups and bands, mixed with solitarious and  transiens mature adults, were present during the \xef\xac\x81 rst  decade of July near Seyhut (1512N/5115E) and in  the interior near Al Ghaydah (1612N/5210E). Some  mature adults were also seen on the coast near  Mukalla (1431N/4908E).  '
 p61
-(S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported after 1 July.  '
+sg5
+S'\x80\xa2 FORECAST Moderate numbers of small swarms will form during   adults persisted in the above areas. No surveys were  conducted in the Tharparkar Desert.  '
 p62
-S'\x80\xa2 FORECAST Small residual adult populations may be present on  the plateau between Boroma and Burao and perhaps  on the coast near Berbera. If conditions remain  favourable, small-scale breeding could occur in areas  of recent rainfall.  Egypt '
+ssS'Somalia'
 p63
-tp64
-sS'Mali'
+(dp64
+g3
+S'\x80\xa2 SITUATION No surveys were carried out and no locusts were   reported after 1 July.  '
 p65
-(S'\x80\xa2 SITUATION No surveys were carried out, but an isolated   solitarious adult was reported on 14 June along the  Niger River southeast of Gao (1616N/0003W).  '
+sg5
+S'\x80\xa2 FORECAST Small residual adult populations may be present on  the plateau between Boroma and Burao and perhaps  on the coast near Berbera. If conditions remain  favourable, small-scale breeding could occur in areas  of recent rainfall.  Egypt '
 p66
-S'\x80\xa2 FORECAST Scattered adults are likely to be present north of   Tombouctou and in parts of the northeast (Timetrine,  Tilemsi Valley, Adrar des Iforas and Tamesna). Small- scale breeding will occur in areas of recent rainfall,  causing locust numbers to increase slightly.  Niger '
+ssS'Mali'
 p67
-tp68
-sS'Iran'
+(dp68
+g3
+S'\x80\xa2 SITUATION No surveys were carried out, but an isolated   solitarious adult was reported on 14 June along the  Niger River southeast of Gao (1616N/0003W).  '
 p69
-(S'\x80\xa2 SITUATION No reports were received during July. '
+sg5
+S'\x80\xa2 FORECAST Scattered adults are likely to be present north of   Tombouctou and in parts of the northeast (Timetrine,  Tilemsi Valley, Adrar des Iforas and Tamesna). Small- scale breeding will occur in areas of recent rainfall,  causing locust numbers to increase slightly.  Niger '
 p70
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  India '
+ssS'Iran'
 p71
-tp72
-sS'Niger'
+(dp72
+g3
+S'\x80\xa2 SITUATION No reports were received during July. '
 p73
-(S'\x80\xa2 SITUATION No reports were received in July. '
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  India '
 p74
-S'\x80\xa2 FORECAST Scattered adults are likely to be present in parts of   Tamesna and perhaps in southeastern Air. Small-scale  breeding will occur in areas of recent rainfall, causing  locust numbers to increase slightly.   Chad '
+ssS'Niger'
 p75
-tp76
-sS'Yemen'
+(dp76
+g3
+S'\x80\xa2 SITUATION No reports were received in July. '
 p77
-(S'\x80\xa2 SITUATION During July, egg laying and hatching continued   within a large portion of the interior. The most  signi\xef\xac\x81 cant infestations were in remote wadis in the  plateau north of W. Hadhramaut between Al Abr  (1608N/4714E) and Thamud (1717N/4955E) where  hoppers formed groups and bands at densities up  to 400 hoppers/m2. Smaller infestations continued  east to the Oman border at Shehan (1746N/5229E)  and south to Hat (1719N/5205E). Hatching and band  formation also occurred in wadis in the plateau south  of W. Hadhramaut, in crops of W. Hadhramaut itself,  and in the traditional breeding areas in Shabwah near  Ataq (1435N/4649E) and Bayhan (1452N/4545E).  Groups of solitarious and transiens immature and  mature adults were scattered throughout most of  these areas. Although hopper development was  not well synchronized, most hoppers had reached  fourth or \xef\xac\x81 fth instar by the end of the month and were  \xef\xac\x82 edging and forming groups of immature adults. From  the 26th onwards, a few small immature swarms of up  to 3 km2 in size were reported near W. Hadhramaut.   \x0cGround control operations commenced on 4 July and  18,591 ha were treated during July.  Solitarious and transiens hoppers and adults were   present on the desert plains about 100 km west of  Al Abr, and mature solitarious adults were seen at  a few places in the Al-Jawf region near Al Hazm  (1609N/4447E).  Pakistan '
+sg5
+S'\x80\xa2 FORECAST Scattered adults are likely to be present in parts of   Tamesna and perhaps in southeastern Air. Small-scale  breeding will occur in areas of recent rainfall, causing  locust numbers to increase slightly.   Chad '
 p78
-g58
-tp79
-sS'Egypt'
-p80
-(S'\x80\xa2 SITUATION No locusts were seen during surveys carried   out in July near Lake Nasser between Abu Simbel  (2219N/3138E) and Tushka (2247N/3126E).  '
+ssS'Yemen'
+p79
+(dp80
+g3
+S'\x80\xa2 SITUATION During July, egg laying and hatching continued   within a large portion of the interior. The most  signi\xef\xac\x81 cant infestations were in remote wadis in the  plateau north of W. Hadhramaut between Al Abr  (1608N/4714E) and Thamud (1717N/4955E) where  hoppers formed groups and bands at densities up  to 400 hoppers/m2. Smaller infestations continued  east to the Oman border at Shehan (1746N/5229E)  and south to Hat (1719N/5205E). Hatching and band  formation also occurred in wadis in the plateau south  of W. Hadhramaut, in crops of W. Hadhramaut itself,  and in the traditional breeding areas in Shabwah near  Ataq (1435N/4649E) and Bayhan (1452N/4545E).  Groups of solitarious and transiens immature and  mature adults were scattered throughout most of  these areas. Although hopper development was  not well synchronized, most hoppers had reached  fourth or \xef\xac\x81 fth instar by the end of the month and were  \xef\xac\x82 edging and forming groups of immature adults. From  the 26th onwards, a few small immature swarms of up  to 3 km2 in size were reported near W. Hadhramaut.   \x0cGround control operations commenced on 4 July and  18,591 ha were treated during July.  Solitarious and transiens hoppers and adults were   present on the desert plains about 100 km west of  Al Abr, and mature solitarious adults were seen at  a few places in the Al-Jawf region near Al Hazm  (1609N/4447E).  Pakistan '
 p81
-S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Saudi Arabia '
+sg5
+g61
+ssS'Egypt'
 p82
-tp83
-s.
+(dp83
+g3
+S'\x80\xa2 SITUATION No locusts were seen during surveys carried   out in July near Lake Nasser between Abu Simbel  (2219N/3138E) and Tushka (2247N/3126E).  '
+p84
+sg5
+S'\x80\xa2 FORECAST No signi\xef\xac\x81 cant developments are likely.  Saudi Arabia '
+p85
+ss.

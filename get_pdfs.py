@@ -3,6 +3,7 @@ import os
 import sys
 import argparse
 import PyPDF2 as pypdf
+import logging
 
 LOCUST_URL = 'http://www.fao.org/ag/locusts/common/ecg/562/en/'
 
@@ -36,10 +37,10 @@ class massDecrypter(object):
 
 def main(argv):
 
-    base_url = LOCUST_URL if argv.url == None else arv.url
-    dest = 'pdfs_decrypted/' if argv.dest == None else arv.dest
-    imin = argv.issue_min[0]
-    imax = argv.issue_max[0]
+    base_url = LOCUST_URL if argv.url == None else argv.url
+    dest = 'pdfs_decrypted/' if argv.dir == None else argv.dir
+    imin = argv.min
+    imax = argv.max
 
     g = massDecrypter('', base_url, "tmp") 
 
@@ -48,8 +49,8 @@ def main(argv):
     for f in files:
         try:
             g.decrypt_pdf(f, dest)
-        except:
-            print(f+" failed")
+        except Exception as e:
+            logging.exception(f + " failed")
 
 if __name__ == '__main__':
 
