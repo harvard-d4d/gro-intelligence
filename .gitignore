@@ -1,2 +1,3 @@
 *.pyc
 pdfs_decrypted/
+.DS_Store
