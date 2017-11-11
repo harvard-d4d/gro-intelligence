@@ -18,9 +18,12 @@ class massDecrypter(object):
         if not os.path.exists(dest):
             os.makedirs(dest)
         response = urllib2.urlopen(self.url+url_ext)
-        with open(self.tmp, 'ab+') as input_file, \
+
+        with open(self.tmp, 'wb+') as input_file:
+            input_file.write(response.read())
+
+        with open(self.tmp, 'rb') as input_file, \
             open(dest+url_ext, 'wb') as output_file:
-                input_file.write(response.read())
                 reader = pypdf.PdfFileReader(input_file)
                 if reader.isEncrypted:
                     reader.decrypt(self.password)
