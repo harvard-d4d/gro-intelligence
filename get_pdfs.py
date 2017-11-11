@@ -48,6 +48,7 @@ def main(argv):
 
     for f in files:
         try:
+            print("Downloading " + f + "...")
             g.decrypt_pdf(f, dest)
         except Exception as e:
             logging.exception(f + " failed")

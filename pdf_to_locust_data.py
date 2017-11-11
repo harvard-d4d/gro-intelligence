@@ -41,43 +41,23 @@ def pdf_to_txt(infile, outfile):
 def write_to_pickle(fname, out_dict):
     with open(fname, 'wb') as f:
         pickle.dump(out_dict, f)
-        print "done writing pickle"
 
-def convert_file(file, label):
+def convert_file(file):
     name = file[:-4]
     txt_name = name + ".txt"
     pickle_name = name + ".locustData"
-    if(label):
-        pickle_name += 'Labeled'
-        txt_name += 'Labeled'
 
     print("Converting " + file + " to text...")
     pdf_to_txt(file, txt_name)
     print("Converting " + file + " to locustData...")
     out_dict = txt_to_dict(txt_name)
-    if(label):
-        for k in out_dict:
-            print(textwrap.fill(str(out_dict[k][0]), 60))
-            rating = input('rating: ')
-            print(textwrap.fill(str(out_dict[k][1]), 60))
-            forecast = input('rating: ')
-            out_dict[k] = {
-                'situation':out_dict[k][0],
-                'rating':rating,
-                'forecast':out_dict[k][1],
-                'forecasted_rating':forecast,
-            }
-    else:
-        out_dict = [{'situation': out_dict[k][0], 'forecast': out_dict[k][1]} for k in out_dict];
     write_to_pickle(pickle_name, out_dict)
 
 def main():
-    directory = sys.argv[1]
-    label = (len(sys.argv) == 3 and sys.argv[-1] == 'label');
-
+    directory = "pdfs_decrypted/"
     for file in os.listdir(directory):
         if file[-4:] == ".pdf":
-            convert_file(directory + file, label)
+            convert_file(directory + file)
 
 if __name__ == "__main__":
     main()
