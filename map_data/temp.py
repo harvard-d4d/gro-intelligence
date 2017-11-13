@@ -12,6 +12,7 @@ def analyze(foldername, l, u):
 
 	# Go through the images collected
 	for image in os.listdir('imgs'):
+		print image
 		# Ignore non-png files
 		if image[-3:] != 'png': continue
 		img_rgb = cv2.imread('imgs/' + image)
@@ -56,13 +57,16 @@ def output(l, u):
 			cv2.imwrite('mask_' + filename, mask)
 
 # Blue 
-analyze('bluemask', [120, 30, 20], [180, 90, 80])
+#analyze('bluemask', [120, 30, 20], [180, 90, 80])
 #output([120, 30, 20], [180, 90, 80])
+print("Blue done")
 # Red
-analyze('redmask', [25, 30, 175], [85, 90, 230])
+#analyze('redmask', [25, 30, 175], [85, 90, 230])
+print("Red done")
 #output([25, 30, 175], [85, 90, 230])
 # Black
 analyze('blackmask', [0, 0, 0], [45, 45, 45])
+print("Black done")
 #output([0, 0, 0], [45, 45, 45])
 
 ''' Blue symbols: 51, 60, 148
