@@ -36,8 +36,8 @@ def analyze(foldername, l, u):
 				# Add to dictionary
 				lst["image"].append(image)
 				lst["template"].append(filename)
-				lst["pt0"].append(pt[0])
-				lst["pt1"].append(pt[1])
+				lst["pt0"].append((pt[0] - 437)/22.6)
+				lst["pt1"].append((pt[1] - 140)/23.2 + 10)
 				cv2.rectangle(img_rgb, pt, (pt[0] + w, pt[1] + h), (255,255,255), 2)
 			# If you want to see found points, uncomment this
 			# cv2.imwrite('res' + image + '.png', img_rgb)
