@@ -8,56 +8,39 @@ import textwrap
 # usage: python pdf_to_locust_data.py TARGET_DIRECTORY/
 
 def txt_to_dict(fname):
-    str = ""
-    with open(fname, 'rb') as f:
-        for line in f:
-            stripped_line = line.replace("\n", " ")
-            str += stripped_line
+    str = reduce(lambda a, l: a + l.replace("\n", " "), open(fname, 'rb'))
     arr = str.split("\xe2")
     dict = {}
 
-    for idx, item in enumerate(arr):
+    for idx, item in enumerate(arr[:-1]):
         if "SITUATION" in item:
             try:
-                situation = item
-                forecast = arr[idx+1]
-                country = arr[idx-1].rsplit("  ", 1)[1]
-                try:
-                    country = country.rsplit("REGION")[1]
-                except:
-                    pass
-                if country == '':
-                    continue
-                country = country.rstrip()
-                country = country.lstrip()
-                dict[country] = (situation, forecast)
+                country, situation, forecast = map(lambda x: x.strip(), arr[idx-1:idx+2]);
+                country = country.rsplit("  ", 1)[1].strip()
+                countryName = country.rsplit("REGION")
+                if len(countryName) > 1:
+                    country = countryName[1].strip()
+                if country != '':
+                    dict[country] = (situation, forecast)
             except:
                 pass
     return dict
 
-def pdf_to_txt(infile, outfile):
-    P2T.main(["", "-o", outfile, infile])
+def convert_file(name):
+    locust, text, pdf = map(lambda x: name + x, [".locustData", ".txt", ".pdf"])
 
-def write_to_pickle(fname, out_dict):
-    with open(fname, 'wb') as f:
-        pickle.dump(out_dict, f)
+    print("Converting " + name + " to locustData...")
 
-def convert_file(file):
-    name = file[:-4]
-    txt_name = name + ".txt"
-    pickle_name = name + ".locustData"
-
-    print("Converting " + file + " to text...")
-    pdf_to_txt(file, txt_name)
-    print("Converting " + file + " to locustData...")
-    out_dict = txt_to_dict(txt_name)
-    write_to_pickle(pickle_name, out_dict)
+    P2T.main(["", "-o", text, pdf])
+    out_dict = txt_to_dict(text)
+    os.remove(text)
+    pickle.dump(out_dict, open(locust, 'wb'))
 
 def main():
     directory = "pdfs_decrypted/"
     for file in os.listdir(directory):
         if file[-4:] == ".pdf":
-            convert_file(directory + file)
+            convert_file(directory + file[:-4])
 
 if __name__ == "__main__":
     main()

@@ -2,59 +2,49 @@ import urllib2
 import os
 import sys
 import argparse
-import PyPDF2 as pypdf
 import logging
+import subprocess
 
 LOCUST_URL = 'http://www.fao.org/ag/locusts/common/ecg/562/en/'
 
-class massDecrypter(object):
+class Decrypter(object):
 
     def __init__(self, password, base_url, tmp_name):
         self.url = base_url
         self.password = password
         self.tmp = tmp_name
 
-    def decrypt_pdf(self, url_ext, dest):
-        if not os.path.exists(dest):
-            os.makedirs(dest)
+    def decrypt(self, url_ext, dest):
         response = urllib2.urlopen(self.url+url_ext)
 
         with open(self.tmp, 'wb+') as input_file:
             input_file.write(response.read())
 
-        with open(self.tmp, 'rb') as input_file, \
-            open(dest+url_ext, 'wb') as output_file:
-                reader = pypdf.PdfFileReader(input_file)
-                if reader.isEncrypted:
-                    reader.decrypt(self.password)
-        
-                writer = pypdf.PdfFileWriter()
-    
-                for i in range(reader.getNumPages()):
-                    writer.addPage(reader.getPage(i))
-
-                writer.write(output_file)
-
-        os.remove(self.tmp)
+        enc = os.path.join('.', self.tmp)
+        dec = os.path.join('.', dest, url_ext)
+        subprocess.call(['./decryptclean.sh', self.password, enc, dec])
 
 
 def main(argv):
 
     base_url = LOCUST_URL if argv.url == None else argv.url
-    dest = 'pdfs_decrypted/' if argv.dir == None else argv.dir
+    dest = 'pdfs_decrypted' if argv.dir == None else argv.dir
     imin = argv.min
     imax = argv.max
 
-    g = massDecrypter('', base_url, "tmp") 
+    decrypter = Decrypter('', base_url, "tmp") 
 
     files = ['DL'+str(i)+'e.pdf' for i in xrange(imin, imax+1)]
 
-    for f in files:
+    if not os.path.exists(dest):
+        os.makedirs(dest)
+
+    for file in files:
         try:
-            print("Downloading " + f + "...")
-            g.decrypt_pdf(f, dest)
+            print("Downloading " + file + "...")
+            decrypter.decrypt(file, dest)
         except Exception as e:
-            logging.exception(f + " failed")
+            logging.exception(file + " failed")
 
 if __name__ == '__main__':
 

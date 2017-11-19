@@ -1,4 +1,5 @@
 import pickle
+import os
 import glob
 
 def main():
@@ -14,8 +15,7 @@ def main():
         # Open locustData file
         raw_name = fname.split('/')[1].split('.locustData')[0]
         issue = fname.split('.')[0].split('DL')[1][:-1]
-        f = open(fname)
-        test_dict = pickle.load(f)
+        test_dict = pickle.load(open(fname, 'rb'))
 
         # Getting rid of all the \x stuff
         # Gets rid of all the headers and page numbers and random country headers
@@ -45,8 +45,9 @@ def main():
             test_dict[key] = tuple(to_set)
 
         # Output to pickle
-        newFile = open('pdfs_decrypted/' + raw_name + '.cleanData','w')
+        newFile = open('pdfs_decrypted/' + raw_name + '.data','w')
         pickle.dump(test_dict, newFile)
+        os.remove(fname)
 
 if __name__ == "__main__":
     main()
