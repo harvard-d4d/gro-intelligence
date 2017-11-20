@@ -18,7 +18,7 @@ def label_file(file):
             'forecast':out_dict[k][1],
             'forecasted_rating':forecast,
         }
-    write_to_pickle(pickle_name, out_dict)
+    pickle.dump(out_dict, open(pickle_name, 'wb'))
 
 
 def main():
